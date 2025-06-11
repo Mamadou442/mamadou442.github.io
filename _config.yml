@@ -22,7 +22,7 @@ title: Mamadou DIOUF
 email: mamadou@mamadoudiouf.tech
 description: >- # this means to ignore newlines until "baseurl:"
   Ceci est mon site web (Mamadou), vous y trouverez mes projets, 
-  mon CV et où je me situe à un mois donnée (/now).
+  mon CV et où je me situe à un mois donné. (/now)
 domain: "mamadoudiouf.tech"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mamadoudiouf.tech" # the base hostname & protocol for your site, e.g. http://example.com

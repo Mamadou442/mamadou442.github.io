@@ -15,6 +15,8 @@ permalink: /now/
 
 ## JUIN 2025
 
-Actuellement ? j'ai fini les cours et je recherhche une alternance, c'est ce mois-ci que ce sera joué. Mais également une école Bac+3 au je pourrais apprendre les systémes le réseaux et le cloud computing, dans un cadre de vie agréable (même si de fait, je n'y serait que partiellement si un contral d'alternance se présente)
+Actuellement ? J'ai fini les cours et je recherche une alternance, c'est ce mois-ci que ce sera joué. Mais également une école Bac+3 où je pourrais apprendre les systèmes, les réseaux et le cloud computing, dans un cadre de vie agréable (même si de fait, je n'y serais que partiellement si un contrat d'alternance se présente).
+
+Je prépare également mon arrivé à la Vivatech (Paris), des places gratuites se sont distribuée sur monlycee.net
 
 Je crois avoir *enfin* trouvé une solution pour vraiment m'organiser : *le bullet journal*, j'ai commencé à la fin du mois dernier.

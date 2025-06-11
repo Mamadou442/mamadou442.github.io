@@ -7,7 +7,7 @@ categories: cloud_computing cloud digitalocean wip
 
 ![alt text]({{site.baseurl}}/assets/images/Fig1.png)
 
-Ce projet vient d'une prompte donnée a chatGPT lui demandant les meilleurs projets pour 3 disciplines données.
+Ce projet vient d'une prompte donnée a chatGPT lui demandant les meilleurs projets pour 3 disciplines données (systèmes, réseaux et cloud computing).
 
 
 ```markdown
