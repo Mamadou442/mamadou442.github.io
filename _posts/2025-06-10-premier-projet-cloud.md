@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Mon premier projet cloud"
-categories: cloud_computing cloud digitalocean wip
+title: "Mon premier projet cloud"
+categories: cloud_computing digitalocean wip
 ---
 
 
