@@ -27,6 +27,8 @@ domain: "mamadoudiouf.tech"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mamadoudiouf.tech" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mamadou442
+linkedin_username: mamadou-diouf-4941b5380
+
 
 # Build settings
 theme: minima
